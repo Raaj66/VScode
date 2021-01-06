@@ -5,7 +5,7 @@ import { FlatList } from 'react-native-gesture-handler';
 const App=()=> {
   return (
    <View>
-     <Text>sgbdc</Text>
+     <Text>sgbfdxvcfdxvdc</Text>
      <Image source={require('./assets/icon.png')} />
    </View>
   )
